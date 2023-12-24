@@ -1,0 +1,9 @@
+{
+    "name": "Währungsrechner",
+    "short_name": "EUR TO USD",
+    "theme_color": "#884488",
+    "background_color": "#884488",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/index.html"
+  }
