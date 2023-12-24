@@ -1,2 +1,2 @@
-# W-hrungsrechner
+# Währungsrechner
 EUR to USD
